@@ -1,2 +1,8 @@
 # SystemLoan
-java connected to database table person
+java connected to MySql database table person
+table person
+ -personID
+ -personName
+ -price
+ -priceTax
+ -SumPrice
